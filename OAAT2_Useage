@@ -1,0 +1,1 @@
+/glusterfs/home/local_jing_xx/anaconda3/bin/Rscript /glusterfs/home/local_jing_xx/software/OAAT2/runOlinkQualityControl.R 伯豪_Expansion_Long_NPX_Data.xlsx sample_grouping_information.xlsx longtype SC pdf SC
